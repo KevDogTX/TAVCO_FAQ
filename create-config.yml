@@ -1,0 +1,10 @@
+# GitHub Pages Configuration
+theme: null
+markdown: kramdown
+include:
+  - "*.md"
+  - robots.txt
+
+kramdown:
+  input: GFM
+  hard_wrap: false
